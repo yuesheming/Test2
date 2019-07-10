@@ -5,7 +5,7 @@ public class giedemo1 {
         System.out.println("helloogit");
     }
     public  void test(){
-        System.out.println("p");
+        System.out.println("ap");
     }
 
 }
