@@ -4,4 +4,8 @@ public class giedemo1 {
     public static void main(String[] args) {
         System.out.println("helloogit");
     }
+    public  void test(){
+        System.out.println("p");
+    }
+
 }
